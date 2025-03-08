@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+pandas>=1.5.0
+plotly>=5.13.0
+reportlab>=3.6.12
+openpyxl>=3.0.10
+ofxparse>=0.21
